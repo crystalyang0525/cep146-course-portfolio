@@ -5,7 +5,7 @@ Welcome to my academic portfolio for CEP146!
 ## About Me
 - Name: Maijie Crystal Yang
 - Program: CPP
-- Year: First Year Fall
+- Year: First Year First Semester
 - Favorite Programming Language: C language
  
 ## Course Goals
