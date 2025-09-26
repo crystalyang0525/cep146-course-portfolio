@@ -1,6 +1,6 @@
 # My Course Portfolio
  
-Welcome to my academic portfolio for (put your course name and section here)!
+Welcome to my academic portfolio for CEP146!
  
 ## About Me
 - Name: Maijie Crystal Yang
