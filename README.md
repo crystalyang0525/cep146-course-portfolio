@@ -3,11 +3,11 @@
 Welcome to my academic portfolio for (put your course name and section here)!
  
 ## About Me
-- Name: (put your name here)
-- Program: (put your program name here)
-- Year: (put your academic year and semester here)
-- Favorite Programming Language: (put your choice here)
- 
+- Name: Maijie Crystal Yang
+- Program: CPP
+- Year: Year 1 first semester
+- Favorite Programming Language: C language
+  
 ## Course Goals
 - [ ] Learn version control with Git and GitHub
 - [ ] Complete all lab assignments
